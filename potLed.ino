@@ -29,5 +29,5 @@ void loop() {
     }
   }
 
-  delay(200); // small delay for stability
+  delay(200); // small delay
 }
